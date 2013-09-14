@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  desc: MyText
+  location: MyString
+  id_departament: MyString
+  helpfulness: 1
+  clarity: 1
+  easiness: 1
+  hotness: 1
+
+two:
+  nome: MyString
+  desc: MyText
+  location: MyString
+  id_departament: MyString
+  helpfulness: 1
+  clarity: 1
+  easiness: 1
+  hotness: 1

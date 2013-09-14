@@ -32,6 +32,9 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+#Up devise can handle rails 4.0
+gem 'devise', '3.0.0.rc'
+gem 'protected_attributes'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
